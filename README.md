@@ -1,6 +1,6 @@
 # Android-Study-Jams
 
-College Bus Tracking System
+College Doubtclearing app 
 
 <b> Problem Statement: </b>
 
