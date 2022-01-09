@@ -24,11 +24,16 @@ class MainActivity : AppCompatActivity() {
     var messagesList = mutableListOf<Message>()
 
     private lateinit var adapter: MessagingAdapter
-    private val botList = listOf("Peter", "Francesca", "Luigi", "Igor")
+    private val botList = listOf("Ayan")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        btn_abt.setOnClickListener {
+            val intent = Intent(this,MainActivity2::class.java)
+            startActivity(intent)
+        }
 
         recyclerView()
 
@@ -130,6 +135,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
+
 
     private fun customBotMessage(message: String) {
 

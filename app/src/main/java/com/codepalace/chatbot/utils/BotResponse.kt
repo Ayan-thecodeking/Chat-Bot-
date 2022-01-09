@@ -42,10 +42,50 @@ object BotResponse {
                     1 -> "Sup"
                     2 -> "Buongiorno!"
                     else -> "error" }
+            } message.contains("hola") -> {
+                when (random) {
+                    0 -> "Hello there!"
+                    1 -> "Sup"
+                    2 -> "Buongiorno!"
+                    else -> "error" }
+            }
+            message.contains("hey baby") -> {
+                when (random) {
+                    0 -> "Hello there!"
+                    1 -> "Sup"
+                    2 -> "Buongiorno!"
+                    else -> "error"
+                }
+            }
+            message.contains("hi , can u help me") -> {
+                when (random) {
+                    0 -> "sure!"
+                    1 -> "let me know the prob"
+                    2 -> "what happend!"
+                    else -> "error" }
+            }message.contains("how i can learn cpp") -> {
+                when (random) {
+                    0 -> "youtube"
+                    1 -> "websites"
+                    2 -> "udemy!"
+                    else -> "error" }
+            }message.contains("tell me something about you") -> {
+                when (random) {
+                    0 -> "sure ! i'm a bot & i help students "
+                    1 -> "I don't have anything to tell"
+                    2 -> "Ladies first!"
+                    else -> "error" }
             }
 
             //How are you?
             message.contains("how are you") -> {
+                when (random) {
+                    0 -> "I'm doing fine, thanks!"
+                    1 -> "I'm hungry..."
+                    2 -> "Pretty good! How about you?"
+                    else -> "error"
+                }
+            }message.contains("what's up") -> {
                 when (random) {
                     0 -> "I'm doing fine, thanks!"
                     1 -> "I'm hungry..."
