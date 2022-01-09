@@ -17,7 +17,6 @@
 
         <EditText
             android:id="@+id/et_message"
-            android:inputType="textShortMessage"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
@@ -25,6 +24,7 @@
             android:background="@drawable/round_button"
             android:backgroundTint="@android:color/white"
             android:hint="Type a message..."
+            android:inputType="textShortMessage"
             android:padding="10dp"
             android:singleLine="true" />
 
