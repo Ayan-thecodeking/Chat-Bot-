@@ -11,7 +11,7 @@ Technology plays a vital role in day-to-day life activities which in turn made g
 
 This project proposes a “automate Chat bot” to response the students there doubts and help them in more efficient manner digitally. Its features include responsing and suggestining resources within a sec according to the availability as a mentor . For now this app is build by a beginners and has a basic functionalities . It is hard coded so, for now it is not ready for users . Currently the app works for SSITM institute only. The project's scope is to extend it for other institutions for guidence and as an intelligent helping bot.
 
-<!-- <img width="559" alt="sampleimages" src="https://user-images.githubusercontent.com/18289261/142846646-a6858641-ad88-43aa-b8bb-b690fd7126f1.png"> -->
+<img width="650" alt="sampleimages" src="image/SSITM.jpg">
     	  	
 <b> Functionality & Concepts used : </b>
 
