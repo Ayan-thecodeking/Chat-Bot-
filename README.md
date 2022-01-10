@@ -24,6 +24,7 @@ This project proposes a “automate Chat bot” to response the students there d
 
 <b> Application Link & Future Scope : </b>
 
-The app is currently in the modification & testing phase with SSITM institute with a limited no. of users, You can access the app : [YOUR APP LINK HERE](either Github link or Google Play store link of published app or .apk file).
+The app is currently in the modification & testing phase with SSITM institute with a limited no. of users, You can access the app : [Download]().
+
 
 Once the app is fully tested and functional in SSITM institute, we plan to talk to neighboring colleges also to propose this app idea and collaborate with them on this question solving app . We are working on the updation and on more functionalities so that we can make it more efficient for the students . We aim that by next year most of the colleges in our district will use this chat app for the doubt solving. 
