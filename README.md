@@ -18,7 +18,7 @@ This project proposes a “automate Chat bot” to response the students there d
 - The App has a very simple and interactive interface which helps the students to clear their doubts. Following are few android concepts used to achieve the functionalities in app : 
 - Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
 - Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons made it easier for students to register or sign in without providing any detailed instructions pages. Apps also uses App Navigation to switch between different screens.
-- RecyclerView : To present the list of different route busses we used the efficient recyclerview.
+- RecyclerView : To present the list of different messages we used the efficient recyclerview.
 - Activity life cycle : we can do proper operations at the right time and avoid crashes and other bugs. Navigation of a single screen with a user interface can be done easily.
 - Coroutines : A coroutine is a concurrency design pattern that  use on Android to simplify code that executes asynchronously. Using coroutine we have designed pattern so that it can easily simplify code and executes asynchronously.  
 
